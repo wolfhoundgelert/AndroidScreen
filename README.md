@@ -1,4 +1,4 @@
-# AndroidScreen
+# AndroidScreenBug
 Bug with screen size on android
 
 When we start this app we have normal size (after two RESIZE events).
